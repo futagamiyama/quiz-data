@@ -1,0 +1,35 @@
+- word_id: address
+
+- quizzes:
+    - quiz_id: c2-1
+      limitTime: 10
+      question: What is the <g>chemical symbol</g> for water?
+      options:
+        - H2O
+        - CO2
+        - O2
+        - NaCl
+      answer: H2O
+      explanation: <r>H2O</r> is the chemical formula for water, consisting of two hydrogen atoms and one oxygen atom.
+
+    - quiz_id: c2-2
+      limitTime: 10
+      question: Who wrote 'Romeo and Juliet'?
+      options:
+        - Charles Dickens
+        - William Shakespeare
+        - Mark Twain
+        - Jane Austen
+      answer: William Shakespeare
+      explanation: <r>Romeo and Juliet</r> is a tragedy written by William Shakespeare early in his career.
+    - quiz_id: c2-3
+      limitTime: 10
+
+      question: What is the powerhouse of the cell?
+      options:
+        - Nucleus
+        - Mitochondria
+        - Ribosome
+        - Endoplasmic Reticulum
+      answer: Mitochondria
+      explanation: Mitochondria are known as the powerhouse of the cell because they generate most of the cell's supply of ATP, used as a source of chemical energy.
