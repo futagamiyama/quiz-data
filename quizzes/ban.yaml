@@ -1,0 +1,133 @@
+word_id: ban
+
+quizzes:
+  - quiz_id: ban-1
+    limitTime: 10
+    question: "The government <g>banned</g> the use of plastic bags."
+    choices:
+      - "禁止した"
+      - "許可した"
+      - "推奨した"
+    answer: "禁止した"
+    related_words:
+      - "government"
+      - "plastic bags"
+    explanation: "政府はレジ袋の使用を<g>禁止した</g>。"
+
+  - quiz_id: ban-2
+    limitTime: 10
+    question: "The website may <g>ban</g> users who break the rules."
+    choices:
+      - "締め出す"
+      - "歓迎する"
+      - "招待する"
+    answer: "締め出す"
+    related_words:
+      - "website"
+      - "users"
+      - "rules"
+    explanation: "そのウェブサイトはルールを破ったユーザーを<g>締め出す</g>ことがある。"
+
+  - quiz_id: ban-3
+    limitTime: 10
+    question: "There is a <g>ban</g> on smoking in restaurants."
+    choices:
+      - "禁止"
+      - "許可"
+      - "推奨"
+    answer: "禁止"
+    related_words:
+      - "smoking"
+      - "restaurants"
+    explanation: "レストランでは喫煙<g>禁止</g>になっている。"
+
+  - quiz_id: ban-4
+    limitTime: 10
+    question: "My account got <g>banned</g> for no reason."
+    choices:
+      - "BANされた"
+      - "承認された"
+      - "作成された"
+    answer: "BANされた"
+    related_words:
+      - "account"
+      - "no reason"
+    explanation: "理由もなくアカウントが<g>BANされた</g>。"
+
+  - quiz_id: ban-5
+    limitTime: 10
+    question: "The government imposed a <g>ban</g> on imports."
+    choices:
+      - "禁止令"
+      - "許可証"
+      - "関税"
+    answer: "禁止令"
+    related_words:
+      - "imposed"
+      - "imports"
+    explanation: "政府は輸入<g>禁止令</g>を出した。"
+
+  - quiz_id: ban-6
+    limitTime: 10
+    question: "He was <g>banned</g> from driving for a year."
+    choices:
+      - "禁止された"
+      - "許可された"
+      - "推薦された"
+    answer: "禁止された"
+    related_words:
+      - "driving"
+      - "year"
+    explanation: "彼は1年間運転を<g>禁止された</g>。"
+
+  - quiz_id: ban-7
+    limitTime: 10
+    question: "The <g>ban</g> was lifted last year."
+    choices:
+      - "禁止令"
+      - "制限"
+      - "法律"
+    answer: "禁止令"
+    related_words:
+      - "lifted"
+      - "last year"
+    explanation: "その<g>禁止令</g>は昨年解除された。"
+
+  - quiz_id: ban-8
+    limitTime: 10
+    question: "The player was <g>banned</g> for three matches."
+    choices:
+      - "出場停止になった"
+      - "出場した"
+      - "優勝した"
+    answer: "出場停止になった"
+    related_words:
+      - "player"
+      - "matches"
+    explanation: "その選手は3試合の<g>出場停止になった</g>。"
+
+  - quiz_id: ban-9
+    limitTime: 10
+    question: "He received a permanent <g>ban</g>."
+    choices:
+      - "永久BAN"
+      - "永久許可"
+      - "永久会員"
+    answer: "永久BAN"
+    related_words:
+      - "permanent"
+      - "received"
+    explanation: "彼は<g>永久BAN</g>を受けた。"
+
+  - quiz_id: ban-10
+    limitTime: 10
+    question: "They are calling for a <g>ban</g> on nuclear weapons."
+    choices:
+      - "禁止"
+      - "開発"
+      - "使用"
+    answer: "禁止"
+    related_words:
+      - "calling for"
+      - "nuclear weapons"
+    explanation: "彼らは核兵器の<g>禁止</g>を求めている。"
