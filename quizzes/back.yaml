@@ -1,0 +1,104 @@
+word_id: back
+
+quizzes:
+  - quiz_id: back-1
+    limitTime: 10
+    question: "I will <g>back</g> your plan."
+    choices:
+      - "支持する"
+      - "戻る"
+      - "後ろに下がる"
+    answer: "支持する"
+    related_words:
+      - "plan"
+      - "support"
+    explanation: "あなたの計画を<g>支持します</g>。"
+
+  - quiz_id: back-2
+    limitTime: 10
+    question: "I'll be <g>back</g> soon."
+    choices:
+      - "戻る"
+      - "支持する"
+      - "背中"
+    answer: "戻る"
+    related_words:
+      - "soon"
+      - "be"
+    explanation: "すぐ<g>戻ります</g>。"
+
+  - quiz_id: back-3
+    limitTime: 10
+    question: "My <g>back</g> hurts."
+    choices:
+      - "背中・腰"
+      - "後ろ"
+      - "裏"
+    answer: "背中・腰"
+    related_words:
+      - "hurts"
+      - "pain"
+    explanation: "<g>背中（腰）</g>が痛い。"
+
+  - quiz_id: back-4
+    limitTime: 10
+    question: "Step <g>back</g>, please."
+    choices:
+      - "後ろに"
+      - "戻って"
+      - "支持して"
+    answer: "後ろに"
+    related_words:
+      - "step"
+    explanation: "<g>後ろに</g>下がってください。"
+
+  - quiz_id: back-5
+    limitTime: 10
+    question: "The answer is on the <g>back</g> of the page."
+    choices:
+      - "裏"
+      - "背中"
+      - "後ろ"
+    answer: "裏"
+    related_words:
+      - "page"
+      - "answer"
+    explanation: "答えはページの<g>裏</g>にあります。"
+
+  - quiz_id: back-6
+    limitTime: 10
+    question: "The proposal was <g>backed</g> by the government."
+    choices:
+      - "支持された"
+      - "戻された"
+      - "後退させられた"
+    answer: "支持された"
+    related_words:
+      - "proposal"
+      - "government"
+    explanation: "その提案は政府に<g>支持された</g>。"
+
+  - quiz_id: back-7
+    limitTime: 10
+    question: "Use the <g>back</g> door."
+    choices:
+      - "裏の"
+      - "背中の"
+      - "戻る"
+    answer: "裏の"
+    related_words:
+      - "door"
+    explanation: "<g>裏口</g>を使って。"
+
+  - quiz_id: back-8
+    limitTime: 10
+    question: "Don't talk about me behind my <g>back</g>."
+    choices:
+      - "陰で"
+      - "背中で"
+      - "後ろで"
+    answer: "陰で"
+    related_words:
+      - "behind"
+      - "talk"
+    explanation: "私の<g>いないところで</g>私のことを話さないで。"

@@ -1,0 +1,158 @@
+word_id: call
+
+quizzes:
+  - quiz_id: call-1
+    limitTime: 10
+    question: "Please <g>call</g> me Tom."
+    choices:
+      - "呼ぶ"
+      - "電話する"
+      - "要求する"
+    answer: "呼ぶ"
+    related_words:
+      - "name"
+      - "me"
+    explanation: "トムと<g>呼んで</g>ください。"
+
+  - quiz_id: call-2
+    limitTime: 10
+    question: "I'll <g>call</g> you later."
+    choices:
+      - "電話する"
+      - "呼ぶ"
+      - "〜だと言う"
+    answer: "電話する"
+    related_words:
+      - "later"
+      - "you"
+    explanation: "後で<g>電話</g>するね。"
+
+  - quiz_id: call-3
+    limitTime: 10
+    question: "There have been <g>calls</g> for the minister to resign."
+    choices:
+      - "要求"
+      - "電話"
+      - "呼び名"
+    answer: "要求"
+    related_words:
+      - "minister"
+      - "resign"
+    explanation: "大臣の辞任を<g>求める声</g>が上がっている。"
+
+  - quiz_id: call-4
+    limitTime: 10
+    question: "I wouldn't <g>call</g> it a success."
+    choices:
+      - "〜だと言う"
+      - "電話する"
+      - "呼ぶ"
+    answer: "〜だと言う"
+    related_words:
+      - "success"
+      - "wouldn't"
+    explanation: "私はそれを成功<g>とは言わない</g>。"
+
+  - quiz_id: call-5
+    limitTime: 10
+    question: "The city is <g>called</g> 'The Big Apple.'"
+    choices:
+      - "呼ばれている"
+      - "電話されている"
+      - "要求されている"
+    answer: "呼ばれている"
+    related_words:
+      - "city"
+      - "Big Apple"
+    explanation: "その都市は「ビッグアップル」と<g>呼ばれている</g>。"
+
+  - quiz_id: call-6
+    limitTime: 10
+    question: "Please give me a <g>call</g> when you arrive."
+    choices:
+      - "電話"
+      - "要求"
+      - "呼び名"
+    answer: "電話"
+    related_words:
+      - "give"
+      - "arrive"
+    explanation: "着いたら<g>電話</g>してください。"
+
+  - quiz_id: call-7
+    limitTime: 10
+    question: "The union made a <g>call</g> for higher wages."
+    choices:
+      - "要求"
+      - "電話"
+      - "呼び名"
+    answer: "要求"
+    related_words:
+      - "union"
+      - "wages"
+    explanation: "組合は賃上げを<g>要求</g>した。"
+
+  - quiz_id: call-8
+    limitTime: 10
+    question: "You <g>call</g> that clean? Look at this mess!"
+    choices:
+      - "〜だと言う"
+      - "電話する"
+      - "呼ぶ"
+    answer: "〜だと言う"
+    related_words:
+      - "clean"
+      - "mess"
+    explanation: "それがきれい<g>だって</g>？この散らかりようを見てよ！"
+
+  - quiz_id: call-9
+    limitTime: 10
+    question: "I got a <g>call</g> from my boss this morning."
+    choices:
+      - "電話"
+      - "要求"
+      - "呼び出し"
+    answer: "電話"
+    related_words:
+      - "boss"
+      - "morning"
+    explanation: "今朝、上司から<g>電話</g>があった。"
+
+  - quiz_id: call-10
+    limitTime: 10
+    question: "What do you <g>call</g> this in English?"
+    choices:
+      - "呼ぶ"
+      - "電話する"
+      - "要求する"
+    answer: "呼ぶ"
+    related_words:
+      - "English"
+      - "what"
+    explanation: "これは英語で何と<g>呼びます</g>か？"
+
+  - quiz_id: call-11
+    limitTime: 10
+    question: "The manager <g>called for</g> a meeting at 10 a.m."
+    choices:
+      - "必要とする"
+      - "電話する"
+      - "呼ぶ"
+    answer: "必要とする"
+    related_words:
+      - "meeting"
+      - "manager"
+    explanation: "マネージャーは午前10時に会議を<g>必要とした</g>。"
+
+  - quiz_id: call-12
+    limitTime: 10
+    question: "We need to <g>call for</g> more information on the supplier's background."
+    choices:
+      - "求める"
+      - "電話する"
+      - "呼ぶ"
+    answer: "求める"
+    related_words:
+      - "information"
+      - "supplier"
+    explanation: "私たちはその供給業者の経歴についてもっと情報を<g>求める</g>必要がある。"
